@@ -30,7 +30,7 @@ public class Menu {
         int choice = sc.nextInt();
         switch(choice){
             case 1: 
-                
+                System.out.println("Minh nam map̉̀ dịt̀");
                 break;
             case 2:
                 
